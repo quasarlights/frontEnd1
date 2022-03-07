@@ -1,0 +1,18 @@
+normalizar css	
+
+centrar imagen dentro de un div
+tuve que centrar el div
+
+ulr 
+copiar direccion de la imagen
+
+tiene importancia el orden de los <link> dentro del head. tiene mas priori el ultimo style.css
+
+VictorCalabroFE — hoy a las 22:15
+Utilizar íconos de FONTAWESOME - resumido así nomás -
+_1 Copiar el siguiente link en el head del HTML:
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+_2 Buscar el ícono en la página de fontawesome y copiar la etiqueta <i> que nos proporciona
+_3 ubicar esa etiqueta <i> donde queramos ubicar el ícono
+ ya llegan las capturas 

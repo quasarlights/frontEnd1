@@ -1,0 +1,36 @@
+* {
+    color: azure;
+    font-family: 'Roboto Mono', monospace;
+    list-style:none
+}
+
+header {
+background-image: image(img/captura3.png);
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/36/16/7d/36167d2a24b24025c0c92264a375168b.jpg');
+    background-size: cover;
+}
+
+.top {
+    background-image: 'C:\Users\Celeste\Desktop\GASTON\#digitalHouse\public_04032022\img\captura3.png';
+    background-size: contain;
+    
+}
+
+#nombre {
+    font-size: 60px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.subtitulos {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+#fotoGaston{
+      
+}
